@@ -1,2 +1,3 @@
 # whitepaper
-white paper of evo company
+evo white paper
+evo terms and conditions
